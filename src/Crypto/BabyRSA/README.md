@@ -1,0 +1,21 @@
+# BabyRSA
+
+---------
+
+## General information
+
+Type: Crypto
+
+Final Score: 455pt
+
+Solved Teams: 13
+
+## Description
+
+```c
+
+(e,n)=(0x10001,0x291733BAB061EF9C599139CB3E40A5C762B6F448FFFFFFFFFFFFFF)
+
+m=237200C0F72B97DB55BA37C7AACBB61A26A0CB47D294726259C4DF
+
+```
